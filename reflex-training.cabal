@@ -1,10 +1,10 @@
 cabal-version:      >=1.10
-name:               reflex-stone
+name:               reflex-training
 version:            0.1.0.0
 license:            BSD3
 license-file:       LICENSE
-author:             Sridhar Ratnakumar
-maintainer:         srid@srid.ca
+author:             Chris Wohlert
+maintainer:         chriswohlert@hotmail.com
 build-type:         Simple
 extra-source-files: README.md
 
